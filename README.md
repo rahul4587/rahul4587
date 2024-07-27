@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Pal</h1>
 <h3 align="center">A passionate Full Stack developer✌️</h3>
-<img align="right" alt="code" width="400" src="![image](https://github.com/user-attachments/assets/7fe755da-35ed-42c6-b373-dab690dde9c6)
+<img align="right" alt="code" width="400" src="![image](https://github.com/user-attachments/assets/8a533e52-fefe-4e5c-8b8f-be94438690ae)
 "
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul4587&label=Profile%20views&color=0e75b6&style=flat" alt="rahul4587" /> </p>
 
